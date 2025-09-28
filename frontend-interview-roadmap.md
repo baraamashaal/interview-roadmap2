@@ -153,3 +153,5 @@ Use the index below as your navigation hub and progress checklist.
 - [6. Port exposing.](./docker-devops/6-port-exposing.md)
 - [7. Volume mounting.](./docker-devops/7-volume-mounting.md)
 - [8. Caching strategies.](./docker-devops/8-caching-strategies.md)
+- [9. Optimized images.](./docker-devops/9-optimized-images.md)
+- [10. Security best practices.](./docker-devops/10-security-best-practices.md)
