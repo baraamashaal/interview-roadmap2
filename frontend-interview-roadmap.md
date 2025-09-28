@@ -155,3 +155,4 @@ Use the index below as your navigation hub and progress checklist.
 - [8. Caching strategies.](./docker-devops/8-caching-strategies.md)
 - [9. Optimized images.](./docker-devops/9-optimized-images.md)
 - [10. Security best practices.](./docker-devops/10-security-best-practices.md)
+- [11. Image vs container.](./docker-devops/11-image-vs-container.md)
