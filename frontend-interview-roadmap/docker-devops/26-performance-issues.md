@@ -109,4 +109,4 @@ CMD ["nginx", "-g", "daemon off;"]
 
 *   **Article:** [Docker Docs - Control resources of a container](https://docs.docker.com/config/containers/resource_constraints/)
 *   **Article:** [Docker Docs - Optimize Docker builds](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#optimize-for-the-build-cache)
-*   **Video:** [Docker Performance Tips - Traversy Media](https://www.youtube.com/watch?v=static-relative-absolute-fixed-sticky)
+*   **Video:** [Docker Performance Tips & Tricks - TechWorld with Nana](https://www.youtube.com/watch?v=s_g_N8-x-hE)

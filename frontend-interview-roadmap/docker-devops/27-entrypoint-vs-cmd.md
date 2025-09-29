@@ -117,4 +117,4 @@ docker run --entrypoint bash my-node-app
 *   **Article:** [Docker Docs - `CMD` instruction](https://docs.docker.com/engine/reference/builder/#cmd)
 *   **Article:** [Docker Docs - `ENTRYPOINT` instruction](https://docs.docker.com/engine/reference/builder/#entrypoint)
 *   **Article:** [Understanding `CMD` and `ENTRYPOINT` in Docker](https://www.freecodecamp.org/news/understanding-cmd-and-entrypoint-in-docker/)
-*   **Video:** [Docker CMD vs ENTRYPOINT - Traversy Media](https://www.youtube.com/watch?v=static-relative-absolute-fixed-sticky)
+*   **Video:** [Docker CMD vs ENTRYPOINT Explained - TechWorld with Nana](https://www.youtube.com/watch?v=s_g_N8-x-hE)

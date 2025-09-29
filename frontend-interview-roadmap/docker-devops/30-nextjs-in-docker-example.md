@@ -94,6 +94,6 @@ Your Next.js application will be running inside a Docker container, accessible a
 
 ## Resources
 
-*   **Article:** [Next.js Docs - Docker Image](https://nextjs.org/docs/deployment/building-and-deploying/docker)
-*   **Article:** [Dockerizing a Next.js Application](https://www.freecodecamp.org/news/dockerizing-a-next-js-application/)
-*   **Video:** [Dockerizing Next.js Apps - Traversy Media](https://www.youtube.com/watch?v=static-relative-absolute-fixed-sticky)
+*   **Article:** [Next.js Docs - Deploying a Production Next.js App on Docker](https://nextjs.org/docs/app/building-your-application/deploying/production-nextjs-app-on-docker)
+*   **Article:** [How to Dockerize a Next.js App](https://www.freecodecamp.org/news/how-to-dockerize-a-next-js-app/)
+*   **Video:** [Dockerize Next.js 14+ App in 2024 - Delba](https://www.youtube.com/watch?v=M_g_N8-x-hE)

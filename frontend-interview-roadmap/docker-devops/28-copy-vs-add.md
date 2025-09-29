@@ -88,4 +88,4 @@ CMD ["bash"]
 *   **Article:** [Docker Docs - `COPY` instruction](https://docs.docker.com/engine/reference/builder/#copy)
 *   **Article:** [Docker Docs - `ADD` instruction](https://docs.docker.com/engine/reference/builder/#add)
 *   **Article:** [Docker `COPY` vs `ADD`: What's the Difference?](https://www.freecodecamp.org/news/docker-copy-vs-add-whats-the-difference/)
-*   **Video:** [Docker COPY vs ADD - Traversy Media](https://www.youtube.com/watch?v=static-relative-absolute-fixed-sticky)
+*   **Video:** [Docker COPY vs ADD Explained - TechWorld with Nana](https://www.youtube.com/watch?v=s_g_N8-x-hE)

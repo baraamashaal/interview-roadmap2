@@ -86,6 +86,6 @@ jobs:
 ## Resources
 
 *   **Tool:** [Trivy](https://aquasecurity.github.io/trivy/)
-*   **Tool:** [Snyk Container](https://snyk.io/product/container-security/)
+*   **Tool:** [Snyk Container](https://snyk.io/solutions/container-security/)
 *   **Article:** [Docker Docs - Security scanning](https://docs.docker.com/engine/scan/)
-*   **Video:** [Container Security Scanning with Trivy - TechWorld with Nana](https://www.youtube.com/watch?v=static-relative-absolute-fixed-sticky)
+*   **Video:** [Security Scans for Docker Images using Trivy! - TechWorld with Nana](https://www.youtube.com/watch?v=s_g_N8-x-hE)
